@@ -1,6 +1,6 @@
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton
-from PyQt5.QtGui import QPainter, QColor, QFont
+from PyQt5.QtGui import QPainter, QColor
 import random
 
 
